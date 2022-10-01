@@ -21,6 +21,7 @@ in your HTML document:
 
 # The following code excerpt demonstrates a basic usage example:
 
+```
   <script src="/Validator.js"></script>
   <script>
    Validator({
@@ -45,3 +46,4 @@ in your HTML document:
     }
    })
   </script>
+  ```
