@@ -19,17 +19,7 @@ in your HTML document:
     </div>
   </form>
 
-note: input-name is optional
-
-# first call Validator function and pass a object to it:
-
-Validator({})
-
-# Inside object you have to includes:
-
-form, formGroupSelector, formMessageSelector, rules
-
-The following code excerpt demonstrates a basic usage example:
+# The following code excerpt demonstrates a basic usage example:
 
   <script src="/Validator.js"></script>
   <script>
