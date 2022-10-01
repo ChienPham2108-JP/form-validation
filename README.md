@@ -3,7 +3,7 @@
 - Embraces native HTML form validation
 - Get data from the form element
 
-</> Quick start
+### </> Quick start
 To use an external validator script, put the 'validator.js' file in the src (source) attribute of a <script> tag in your HTML document:
 ```
 <script src="./validator.js"></script>
