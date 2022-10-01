@@ -10,7 +10,7 @@ To use an external validator script, put the 'validator.js' file in the src (sou
 
 in your HTML document:
 
-# you have to define your form with the following pattern in HTML document
+# You have to define your form with the following pattern in HTML document
 
   <form id="form-name">
     <div class='form-group'>
