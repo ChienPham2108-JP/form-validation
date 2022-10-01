@@ -11,13 +11,14 @@ To use an external validator script, put the 'validator.js' file in the src (sou
 in your HTML document:
 
 # You have to define your form with the following pattern in HTML document
-
+```
   <form id="form-name">
     <div class='form-group'>
       <input id='input-name' name='input-name' /> // The field you want to validate you can change it into select/ file/ textarea,...
       <span class='form-message'></span>
     </div>
   </form>
+  ```
 
 # The following code excerpt demonstrates a basic usage example:
 
